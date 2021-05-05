@@ -16,7 +16,7 @@
 [2018 Reformatted](https://github.com/dmcadoo/stock-analysis/blob/main/Resources/All%20Stocks%20reformatted%202018%20time.png)
 
 
-##Summary
+## Summary
 
-###Refactoring code can be a good tool for maintainability, speed, and ability to understand. It can often lead to code that is easier to read and less complex. Well refactored code can also serve as a starting point or template for other projects. 
-###While refactoring code is usually a sign of diligence and foresight, sometimes the ends do not justify the means. The time and resources devoted to refactoring may not be cost beneficial and may lead to other unintended consequences. While our process did cut the overall time of execution, four tenths of a second(.4s), it was quite insignificant compared to the time to plan, test, and execute the new code. Refactoring code over a larger project or dataset may result in larger implantation time and end in broke code, new bugs, or create even more complex problems.
+### Refactoring code can be a good tool for maintainability, speed, and ability to understand. It can often lead to code that is easier to read and less complex. Well refactored code can also serve as a starting point or template for other projects. 
+### While refactoring code is usually a sign of diligence and foresight, sometimes the ends do not justify the means. The time and resources devoted to refactoring may not be cost beneficial and may lead to other unintended consequences. While our process did cut the overall time of execution, four tenths of a second(.4s), it was quite insignificant compared to the time to plan, test, and execute the new code. Refactoring code over a larger project or dataset may result in larger implantation time and end in broke code, new bugs, or create even more complex problems.
