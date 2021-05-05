@@ -8,9 +8,13 @@
 ### Our document included: Stock symbol, Date	Open, High, Low, Close, Adj Close and Volume. Using our custom VBA macros, we were able to calculate the Total Daily Voulme and Percent Return for the twelve different stock symbols, for two separate year intervals. By creating a tickerindex variable in our loops, we were able to save four tenths of a second (.4s) in run time. 
 
 [Original 2017 Run Time](https://github.com/dmcadoo/stock-analysis/blob/main/Resources/All%20Stocks%202017%20time.png) 
+
 [Original 2018 Run Time](https://github.com/dmcadoo/stock-analysis/blob/main/Resources/All%20Stocks%202018%20time.png) 
+
 [2017 Reformatted](https://github.com/dmcadoo/stock-analysis/blob/main/Resources/All%20Stocks%20reformatted%202017%20time.png) 
+
 [2018 Reformatted](https://github.com/dmcadoo/stock-analysis/blob/main/Resources/All%20Stocks%20reformatted%202018%20time.png)
+
 
 ##Summary
 
